@@ -1,2 +1,3 @@
 # SchemeMinimum
-A minimum implementation ofScheme by Java8.
+
+A minimum implementation of Scheme by Java8.
